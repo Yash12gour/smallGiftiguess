@@ -1,0 +1,6 @@
+{
+  "name": "Digital Bouquet and Letter for Nishi",
+  "description": "An immersive digital keepsake featuring a virtual flower bouquet, scrapbook memories, and a personal letter for Nishi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
